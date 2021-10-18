@@ -4,5 +4,7 @@ Descrição: Este é o meu projeto de React.js do Desafio React JS proposto pela
 
 # Instruções: 
 Baixe os módulos utilizando: npm install
+
 Inicie a Fake API com: yarn server
+
 Inicie o projeto React com: npm start
