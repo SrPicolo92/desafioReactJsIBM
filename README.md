@@ -1,5 +1,6 @@
 # Desafio React JS
 Autor: Rafael Miranda Ferrari Picolo
+
 Descrição: Este é o meu projeto de React.js do Desafio React JS proposto pela IBM Brasil como prova teste para admissão ao cargo de Desenvolvedor Fullstack.
 
 # Instruções: 
